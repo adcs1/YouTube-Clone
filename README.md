@@ -1,4 +1,4 @@
-## You-Tube Clone Screenshots
+## You-Tube Clone Screenshot
 
 <img
   src="Images/screenshot.png"
